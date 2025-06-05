@@ -1,3 +1,6 @@
 {
-  "4045593989": {Access = true, Priority = 0}
+  "4045593989": {
+    "Access": true,
+    "Priority": 0
+  }
 }
